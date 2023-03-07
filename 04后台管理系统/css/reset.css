@@ -1,0 +1,14 @@
+body , ul ,li{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 2500px;
+    font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
